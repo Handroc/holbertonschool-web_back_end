@@ -2,6 +2,6 @@
 """Defines a make_multiplier type-annotated function."""
 
 
-def make_multiplier (multiplier: float) -> float:
+def make_multiplier(multiplier: float) -> float:
     """Returns a function that multiplies a float by multiplier."""
     return multiplier * multiplier

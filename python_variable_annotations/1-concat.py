@@ -2,6 +2,6 @@
 """Defines a concat type-annotated function."""
 
 
-def concat (a: str, b: str) -> str:
+def concat(a: str, b: str) -> str:
     """Returns the concatenation of a and b."""
     return a + b
