@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import math
+"""Defines a floor type-annotated function."""
 
 
 def floor (n: float) -> int:
