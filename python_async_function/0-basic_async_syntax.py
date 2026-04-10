@@ -2,6 +2,8 @@
 
 import random
 import asyncio
+"""This module contains an asynchronous function that waits for a random delay
+between 0 and a specified maximum delay."""
 
 
 async def wait_random(max_delay: int = 10) -> float:
