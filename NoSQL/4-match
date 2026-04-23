@@ -1,1 +1,2 @@
+// script to find a document in MongoDB
 db.school.find({ name: "Holberton school" })
