@@ -1,2 +1,2 @@
-#!/usr/bin/env python3
+// script to create a database in MongoDB
 use my_db
