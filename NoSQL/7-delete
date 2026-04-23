@@ -1,2 +1,2 @@
 // script to delete a document in MongoDB
-db.school.delete_many({ name: "Holberton" })
+db.school.delete({ name: "Holberton" })
